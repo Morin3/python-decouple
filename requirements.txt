@@ -4,3 +4,4 @@ tox==2.7.0
 docutils==0.14
 Pygments>=2.7.4
 twine
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
